@@ -1,0 +1,16 @@
+Bot download link : https://stockfishchess.org/download/ (Stockfish 14)
+
+Save the folder on your C folders (like what i did on my code)
+- self.stockfish_engine = stockfish.Stockfish(path=r'D:\Programming\Projects\PYTHON\Chess PyQt5 Project\stockfish_14.1_win_x64_avx2\stockfish_14.1_win_x64_avx2.exe')
+- line 13, playStockfish.py 
+
+*NOTE : The program is still executable without chess-engine requirement as i mentioned above (You can only play with living person).
+        Just make sure you have required modules installed to launch the program.
+
+
+Sincerely,
+Farrel Dinarta
+
+
+
+

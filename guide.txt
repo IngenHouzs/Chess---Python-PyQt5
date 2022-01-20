@@ -1,0 +1,11 @@
+Download link : https://stockfishchess.org/download/
+
+save the folder on your C folders (like what i do on my code)
+- self.stockfish_engine = stockfish.Stockfish(path=r'D:\Programming\Projects\PYTHON\Chess PyQt5 Project\stockfish_14.1_win_x64_avx2\stockfish_14.1_win_x64_avx2.exe')
+- line 13, playStockfish.py 
+
+Make sure you have required modules installed to launch the program.
+
+
+
+
